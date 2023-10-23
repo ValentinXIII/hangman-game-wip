@@ -1,0 +1,30 @@
+C:\Users\Visualstudio\HangmanGame\bin\Debug\net6.0\HangmanGame.exe
+C:\Users\Visualstudio\HangmanGame\bin\Debug\net6.0\HangmanGame.deps.json
+C:\Users\Visualstudio\HangmanGame\bin\Debug\net6.0\HangmanGame.runtimeconfig.json
+C:\Users\Visualstudio\HangmanGame\bin\Debug\net6.0\HangmanGame.dll
+C:\Users\Visualstudio\HangmanGame\bin\Debug\net6.0\HangmanGame.pdb
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.AssemblyReference.cache
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.dll
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\refint\HangmanGame.dll
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.pdb
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\HangmanGame.genruntimeconfig.cache
+C:\Users\Visualstudio\HangmanGame\obj\Debug\net6.0\ref\HangmanGame.dll
+C:\Users\Visual Studio\HangmanGame\bin\Debug\net6.0\HangmanGame.exe
+C:\Users\Visual Studio\HangmanGame\bin\Debug\net6.0\HangmanGame.deps.json
+C:\Users\Visual Studio\HangmanGame\bin\Debug\net6.0\HangmanGame.runtimeconfig.json
+C:\Users\Visual Studio\HangmanGame\bin\Debug\net6.0\HangmanGame.dll
+C:\Users\Visual Studio\HangmanGame\bin\Debug\net6.0\HangmanGame.pdb
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.AssemblyReference.cache
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.dll
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\refint\HangmanGame.dll
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.pdb
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\HangmanGame.genruntimeconfig.cache
+C:\Users\Visual Studio\HangmanGame\obj\Debug\net6.0\ref\HangmanGame.dll
